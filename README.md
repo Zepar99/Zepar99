@@ -2,7 +2,7 @@
 # Hi there! 👋🏻 I'm <a href="https://www.linkedin.com/in/PratikKailasBorse/" target="_blank"> Pratik Borse! </a>
 
 <div align="justify">
-## I am a Game Developer
+# I am a Game Developer
   
 Hi, I am a Gamer, Game Developer, and a Passionate Photographer. I am an explorer who loves Travel. 
 
