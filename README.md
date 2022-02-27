@@ -1,4 +1,7 @@
-### Hi there 👋, My name is Pratik Borse(https://www.linkedin.com/in/PratikKailasBorse/) 
+
+# Hello there! 👋🏻 I'm <a href="https://www.linkedin.com/in/PratikKailasBorse/" target="_blank"> Pratik Borse! </a> <img src="https://i.imgur.com/veZrcC7.gif"  width="50" />
+
+<div align="justify">
 #### I am a Game Developer
 ![I am a Game Developer](https://media-exp1.licdn.com/dms/image/C4D16AQFaoytQTDZqqA/profile-displaybackgroundimage-shrink_200_800/0/1637827403880?e=1651708800&v=beta&t=ulcAQeiTl7FkRpXPq_nl8gl44Tj6Hic0sBn42TqWYm8)
 
