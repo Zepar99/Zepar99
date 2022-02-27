@@ -1,5 +1,5 @@
 
-# Hello there! 👋🏻 I'm <a href="https://www.linkedin.com/in/PratikKailasBorse/" target="_blank"> Pratik Borse! </a> width="50" />
+# Hello there! 👋🏻 I'm <a href="https://www.linkedin.com/in/PratikKailasBorse/" target="_blank"> Pratik Borse! </a>
 
 <div align="justify">
 #### I am a Game Developer
