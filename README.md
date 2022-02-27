@@ -1,10 +1,9 @@
 
-# Hello there! 👋🏻 I'm <a href="https://www.linkedin.com/in/PratikKailasBorse/" target="_blank"> Pratik Borse! </a> <img src="https://i.imgur.com/veZrcC7.gif"  width="50" />
+# Hello there! 👋🏻 I'm <a href="https://www.linkedin.com/in/PratikKailasBorse/" target="_blank"> Pratik Borse! </a> width="50" />
 
 <div align="justify">
 #### I am a Game Developer
-![I am a Game Developer](https://media-exp1.licdn.com/dms/image/C4D16AQFaoytQTDZqqA/profile-displaybackgroundimage-shrink_200_800/0/1637827403880?e=1651708800&v=beta&t=ulcAQeiTl7FkRpXPq_nl8gl44Tj6Hic0sBn42TqWYm8)
-
+  
 Hi, I am a Gamer, Game Developer, and a Passionate Photographer. I am an explorer who loves Travel. 
 
 Skills: Unity/C#/C++/Data Structures/Algorithms
