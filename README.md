@@ -18,5 +18,5 @@ Skills: Unity/C#/C++/Data Structures/Algorithms
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zepar99&theme=github_dark)
   
-  file:///C:/Users/lenovo/Downloads/github-user-contribution%20(1).svg
+
 
