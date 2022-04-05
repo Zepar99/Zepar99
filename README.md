@@ -3,7 +3,15 @@
 
 <div align="justify">
   
-Hi, I am a Gamer, Game Developer, and a Passionate Photographer. I am an explorer who loves Travel. 
+Hi, I am Pratik Kailas Borse. I have done my mechanical engineering in 2021.
+Doing Game Development @ Outscal.
+  
+Why am I doing Game Development?
+The answer is simple since childhood I use to play many games like Halo, NFS, Call of Duty, Age of Empire, and many more and I remember that someone told me that games are made with coding so I wanted to learn how Games are made but I took mechanical engineering but my goal was to become a game developer so I searched about it on google and found out about Outscal.
+Now I am doing my Full Stack Game Development at Outscal. Here I am learning Unity game engine, C#, and C++ in-depth and working on Realtime 2D and 3D projects. I have been working as a full-stack game developer with Outscal since September 2021.
+
+Apart from Game Development in my free time, I like to do Moblie  Photography and Gaming.
+
 
 Skills: Unity/C#/C++/Data Structures/Algorithms
 
