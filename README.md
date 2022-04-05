@@ -16,7 +16,7 @@ Apart from Game Development in my free time, I like to do Moblie  Photography an
 Skills: Unity/C#/C++/Data Structures/Algorithms
 
 - 🔭 I’m currently working on Prototype of Hill Climb 
-- 🌱 I’m currently learning Game Development at Outscal 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Zepar99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/PratikKailasBorse/)  
