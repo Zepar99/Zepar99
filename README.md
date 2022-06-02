@@ -1,5 +1,6 @@
 
 # Hi there! 👋🏻 I'm <a href="https://www.linkedin.com/in/PratikKailasBorse/" target="_blank"> Pratik Borse! </a>
+<p><img align ="centre" alt = "gif" src="<a href='https://www.freepik.com/vectors/play-game'>Play game vector created by pikisuperstar - www.freepik.com</a>" width="400" height="300" /></p>
 
 <div align="justify">
   
