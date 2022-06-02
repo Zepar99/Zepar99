@@ -3,7 +3,7 @@
 
 <p><img align ="center" alt = "gif" src="https://github.com/Zepar99/Zepar99/blob/main/Bedroom%20mood%20by%20bbrunomoraes%20on%20DeviantArt.gif" width="600" height="300" /></p>
 
-- 🌱 I’m currently learning **Unity Engine**
+- 🌱 I’m currently learning **Game Development @Outscal**
 
 - 👨‍💻 All of my projects are available at [https://pratikkborse.wixsite.com/myportfolio](https://pratikkborse.wixsite.com/myportfolio)
 
