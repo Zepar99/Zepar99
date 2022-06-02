@@ -1,30 +1,28 @@
-
-# Hi there! 👋🏻 I'm <a href="https://www.linkedin.com/in/PratikKailasBorse/" target="_blank"> Pratik Borse! </a>
-
-<div align="justify">
-  
-Hi, I am Pratik Kailas Borse. I have done my mechanical engineering in 2021.
-Doing Game Development @ Outscal.
-  
-Why am I doing Game Development?
-  The answer is simple since childhood I use to play many games like Halo, NFS, Call of Duty, Age of Empire, and many more and I remember that someone told me that games are made with coding so I wanted to learn how Games are made but I took mechanical engineering but my goal was to become a game developer so I searched about it on google and found out about Outscal.
-Now I am doing my Full Stack Game Development at Outscal. Here I am learning Unity game engine, C#, and C++ in-depth and working on Realtime 2D and 3D projects. I have been working as a full-stack game developer with Outscal since September 2021.
-
-Apart from Game Development in my free time, I like to do Moblie  Photography and Gaming.
-
-
-Skills: Unity/C#/C++/Data Structures/Algorithms
-
-- 🔭 I’m currently working on Prototype of Hill Climb 
+<h1 align="center">Hi 👋, I'm Pratik Borse</h1>
+<h3 align="center">A passionate Unity Game Developer from India</h3>
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Zepar99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/PratikKailasBorse/)  
+- 🌱 I’m currently learning **Unity Engine**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zepar99)](https://github.com/anuraghazra/github-readme-stats)
+- 👨‍💻 All of my projects are available at [https://pratikkborse.wixsite.com/myportfolio](https://pratikkborse.wixsite.com/myportfolio)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zepar99&theme=github_dark)
-  
-  ##Snake Eatting My Contributions
-  
- ![snake gif](https://github.com/Zepar99/Zepar99/blob/output/github-contribution-grid-snake.gif)
+- 💬 Ask me about  **unity engine**
+
+- 📫 How to reach me  **pratikkborse@gmail.com**
+
+- ⚡ In my free time  **I do photography and watch anime**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/pratik borse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratik borse" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zepar99&show_icons=true&locale=en&layout=compact" alt="zepar99" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zepar99&show_icons=true&locale=en" alt="zepar99" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zepar99&label=Profile%20views&color=0e75b6&style=flat" alt="zepar99" /> </p>
