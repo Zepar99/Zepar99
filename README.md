@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pratikkborse.wixsite.com/myportfolio](https://pratikkborse.wixsite.com/myportfolio)
 
-- 💬 Ask me about  **unity engine**
+- 💬 My Itch.io Link [https://pratikborse.itch.io/](https://pratikborse.itch.io/)
 
 - 📫 How to reach me  **pratikkborse@gmail.com**
 
