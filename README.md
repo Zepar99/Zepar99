@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Borse</h1>
 <h3 align="center">A passionate Unity Game Developer from India</h3>
 
-<p><img align ="center" alt = "gif" src="https://github.com/Zepar99/Zepar99/blob/main/Bedroom%20mood%20by%20bbrunomoraes%20on%20DeviantArt.gif" width="1080" height="550" /></p>
+<p><img align ="center" alt = "gif" src="https://github.com/Zepar99/Zepar99/blob/main/Bedroom%20mood%20by%20bbrunomoraes%20on%20DeviantArt.gif" width="1080" height="500" /></p>
 
 - 🌱 I’m currently learning **Game Development @Outscal**
 
