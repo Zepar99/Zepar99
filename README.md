@@ -9,7 +9,7 @@
 
 - 📫 How to reach me  **pratikkborse@gmail.com**
 
-- ⚡ In my free time  **I do photography and watch anime**
+- ⚡ In my free time  **I do [photography](https://www.instagram.com/pratik_b0rse/?hl=en) and watch anime**
 
 
 # Connect with me :
