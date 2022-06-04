@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Game Development @Outscal**
 
-- 👨‍💻 All of my projects are available at [https://pratikkborse.wixsite.com/myportfolio](https://pratikkborse.wixsite.com/myportfolio)
-
-- 💬 My Itch.io Link [https://pratikborse.itch.io/](https://pratikborse.itch.io/)
+- 👨‍💻 My Portfolio site [https://pratikborse.itch.io/](https://pratikborse.itch.io/) 
 
 - 📫 How to reach me  **pratikkborse@gmail.com**
 
