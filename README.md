@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratik Borse</h1>
-
 <h3 align="center">
-Software Developer | C++ | C# | Unity | Systems & Game Development
+Software Developer | C++ Systems Programming | Real-Time Simulation
 </h3>
 
 <p align="center">
@@ -17,62 +16,48 @@ Software Developer | C++ | C# | Unity | Systems & Game Development
 
 ## 👨‍💻 About Me
 
-I'm a developer interested in building **games, systems, and performance-oriented software**.
+I build **networked systems, low-latency engines, and real-time simulations**.
 
-- 🎮 Building games with **Unity & C#**
-- ⚙️ Developing systems and backend projects with **C++**
-- 🧠 Currently improving my **Data Structures & Algorithms**
-- 🔧 Exploring **networking, concurrency, and system design**
-- 🌱 Continuously learning and building projects
+- ⚙️ Building backend/systems projects in **C++** — networking, concurrency, persistence
+- 🏭 Working professionally on real-time **Digital Twin** simulations for CNC & robotic systems (C#/Unity)
+- 🔧 Focused on **networking, concurrency, and system design**
+- 🧠 Sharpening **Data Structures & Algorithms** for systems interviews
 - 📫 Reach me at **[pratikkborse@gmail.com](mailto:pratikkborse@gmail.com)**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔴 Redis Clone — C++
-
-A Redis-inspired in-memory database built from scratch to explore:
-
-- Networking
-- TCP communication
-- Data structures
-- Protocol parsing
-- Concurrency
-- Performance
+### 🔴 redis-clone-cpp
+A Redis-style in-memory key-value store built from scratch in C++.
+- Single-threaded **epoll** event loop — handles concurrent TCP clients with zero locks on the data store
+- Real **RESP wire protocol** (multibulk parsing with partial-read handling, plus inline fallback)
+- Configurable persistence — **AOF** write logging + atomic binary **RDB** snapshotting (`--persistence=aof|rdb|both`)
+- TTL/expiry with lazy deletion, structured timestamped logging
 
 🔗 **[View Repository](https://github.com/Zepar99/redis-clone-cpp)**
 
 ---
 
-### ⚡ Matching Engine — C++
-
-A high-performance order matching engine implemented in C++.
-
-Focused on:
-
-- Order books
-- Matching algorithms
-- Data structures
-- Performance
-- Low-latency programming
+### ⚡ matching-engine-cpp
+A low-latency limit order matching engine in C++ — price-time priority (FIFO) matching over a single-instrument order book.
+- Partial fills, and **O(1) order cancellation** via an auxiliary order-id index
+- Custom multi-threaded **TCP load-testing tool** to benchmark real throughput and latency percentiles
+- **Sustained 40–50K orders/sec** across 10–1,000 concurrent clients (up to 2M total orders)
+- Sub-2ms p99 latency at 100 concurrent clients
 
 🔗 **[View Repository](https://github.com/Zepar99/matching-engine-cpp)**
 
 ---
 
 ### 🎮 The Dungeon Tale
-
-A dungeon puzzle game where **two players control characters using a single controller**.
-
-Built with Unity and C#.
+A dungeon puzzle game where **two players control characters using a single controller**. Built with Unity and C#.
 
 🔗 **[View Repository](https://github.com/Zepar99/The-Dungeon-Tale)**
 
 ---
 
 ### 🛡️ Battle Tanks
-
 A 3D tank combat game developed using Unity and C#.
 
 🔗 **[View Repository](https://github.com/Zepar99/Battle-Tank)**
@@ -81,7 +66,7 @@ A 3D tank combat game developed using Unity and C#.
 
 ## 🛠️ Languages & Technologies
 
-### Languages
+**Languages**
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
@@ -90,7 +75,7 @@ A 3D tank combat game developed using Unity and C#.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
 </p>
 
-### Technologies
+**Technologies**
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="45" height="45" alt="Unity"/>
@@ -112,17 +97,12 @@ A 3D tank combat game developed using Unity and C#.
 
 ---
 
-## 🧠 Currently Learning
+## 🧠 Currently Focused On
 
 ```text
-C++
- ├── Data Structures & Algorithms
- ├── Networking
- ├── Concurrency
- └── System Design
-
-Game Development
- ├── Unity
- ├── C#
- ├── Game Architecture
- └── Performance Optimization
+C++ Systems Programming
+ ├── Data Structures & Algorithms (interview prep)
+ ├── Multi-threaded concurrency patterns
+ ├── Low-latency system design
+ └── Memory safety tooling (sanitizers, testing)
+```
