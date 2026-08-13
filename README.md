@@ -21,19 +21,31 @@
 
 ---
 
-```bash
-$ whoami
-Pratik Borse — Systems Programmer (C++) · Real-Time Simulation Engineer · Pune, India
+```text
+$ who-am-i
+
+Pratik Borse — Systems Programmer (C++)
+Real-Time Simulation Engineer · Pune, India
+
 
 $ cat mission.txt
-By day: real-time Digital Twin simulations for CNC & robotic systems.
-By night: event loops, wire protocols, matching engines — built from
-scratch, because I'd rather own the syscall than trust an abstraction
-over it.
 
-$ ls -la core/
-drwxr-xr-x  redis-clone-cpp/       epoll reactor · RESP protocol · AOF+RDB persistence
-drwxr-xr-x  matching-engine-cpp/   price-time priority · 40K+ orders/sec · sub-2ms p99
+By day:
+  Real-time Digital Twin simulations for CNC & robotic systems.
+
+By night:
+  Event loops. Wire protocols. Matching engines.
+  Built from scratch because understanding the abstraction
+  is more interesting than simply using it.
+
+
+$ ls core/
+
+redis-clone-cpp/
+             └─ epoll reactor · RESP · AOF/RDB persistence
+
+matching-engine-cpp/
+             └─ price-time priority · 40K+ orders/sec · sub-2ms p99
 ```
 
 ---
