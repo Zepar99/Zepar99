@@ -1,43 +1,128 @@
 <h1 align="center">Hi 👋, I'm Pratik Borse</h1>
-<h3 align="center">A passionate Unity Game Developer from India</h3>
 
-<p><img align ="center" alt = "gif" src="https://github.com/Zepar99/Zepar99/blob/main/Bedroom%20mood%20by%20bbrunomoraes%20on%20DeviantArt.gif" width="1080" height="450" /></p>
+<h3 align="center">
+Software Developer | C++ | C# | Unity | Systems & Game Development
+</h3>
 
-- 🌱 I’m currently learning **Game Development @Outscal**
-
-- 👨‍💻 My Portfolio site [https://pratikborse.itch.io/](https://pratikborse.itch.io/) 
-
-- 📫 How to reach me  **pratikkborse@gmail.com**
-
-- ⚡ In my free time  **I do [photography](https://www.instagram.com/pratik_b0rse/?hl=en) and watch anime**
-
-
-# Connect with me :
-<a href="https://www.linkedin.com/in/pratikkailasborse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratik borse" height="40" width="40" /></a>
+<p align="center">
+  <img
+    src="https://github.com/Zepar99/Zepar99/blob/main/Bedroom%20mood%20by%20bbrunomoraes%20on%20DeviantArt.gif"
+    alt="Coding setup"
+    width="1080"
+    height="450"
+  />
 </p>
 
+---
 
-# Languages and Tools :
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 👨‍💻 About Me
 
-# My Projects
-| Project Name      | Description | 
-| :---:        |    :----   |  
-| [Battle Tanks](https://github.com/Zepar99/Battle-Tank)     | 3D Tank shooting game made with unity. 
-| [The Dungeon Tale](https://github.com/Zepar99/The-Dungeon-Tale)   | dungeon puzzel game controlling 2Players using one controller.
-| [Duet Game](https://github.com/Zepar99/Duet-Game)     | 2D hyperCasual gmae 
-| [Hill climb racing](https://github.com/Zepar99/Hill-Climb)     | clone of Hill climb racing game. 
-| [Paper plane](https://github.com/Zepar99/Paper-Plane)     | 2D hyperCasual Survival game.
-| [The Explorer](https://github.com/Zepar99/The-Explorer)     | 2D Platformer game made with unity.
+I'm a developer interested in building **games, systems, and performance-oriented software**.
 
-
-
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=zepar99&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zepar99&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=zepar99&theme=tokyonight&hide_border=false)<br/>
+- 🎮 Building games with **Unity & C#**
+- ⚙️ Developing systems and backend projects with **C++**
+- 🧠 Currently improving my **Data Structures & Algorithms**
+- 🔧 Exploring **networking, concurrency, and system design**
+- 🌱 Continuously learning and building projects
+- 📫 Reach me at **[pratikkborse@gmail.com](mailto:pratikkborse@gmail.com)**
 
 ---
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zepar99&label=Profile%20views&color=0e75b6&style=flat" alt="zepar99" /> </p>
+
+## 🚀 Featured Projects
+
+### 🔴 Redis Clone — C++
+
+A Redis-inspired in-memory database built from scratch to explore:
+
+- Networking
+- TCP communication
+- Data structures
+- Protocol parsing
+- Concurrency
+- Performance
+
+🔗 **[View Repository](https://github.com/Zepar99/redis-clone-cpp)**
+
+---
+
+### ⚡ Matching Engine — C++
+
+A high-performance order matching engine implemented in C++.
+
+Focused on:
+
+- Order books
+- Matching algorithms
+- Data structures
+- Performance
+- Low-latency programming
+
+🔗 **[View Repository](https://github.com/Zepar99/matching-engine-cpp)**
+
+---
+
+### 🎮 The Dungeon Tale
+
+A dungeon puzzle game where **two players control characters using a single controller**.
+
+Built with Unity and C#.
+
+🔗 **[View Repository](https://github.com/Zepar99/The-Dungeon-Tale)**
+
+---
+
+### 🛡️ Battle Tanks
+
+A 3D tank combat game developed using Unity and C#.
+
+🔗 **[View Repository](https://github.com/Zepar99/Battle-Tank)**
+
+---
+
+## 🛠️ Languages & Technologies
+
+### Languages
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+</p>
+
+### Technologies
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="45" height="45" alt="Unity"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+</p>
+
+---
+
+## 🎮 Other Projects
+
+| Project | Description |
+|---|---|
+| [Duet Game](https://github.com/Zepar99/Duet-Game) | 2D hyper-casual game |
+| [Hill Climb](https://github.com/Zepar99/Hill-Climb) | Hill Climb Racing inspired game |
+| [Paper Plane](https://github.com/Zepar99/Paper-Plane) | 2D survival game |
+| [The Explorer](https://github.com/Zepar99/The-Explorer) | 2D platformer built with Unity |
+| [MAZE](https://github.com/Zepar99/MAZE) | Maze-based game |
+
+---
+
+## 🧠 Currently Learning
+
+```text
+C++
+ ├── Data Structures & Algorithms
+ ├── Networking
+ ├── Concurrency
+ └── System Design
+
+Game Development
+ ├── Unity
+ ├── C#
+ ├── Game Architecture
+ └── Performance Optimization
